@@ -17,3 +17,9 @@ implementation이란 머릿속에 있는 알고리즘을 소스코드로 바꾸�
 
 
 ![image](https://user-images.githubusercontent.com/88085974/135005939-63fb3a88-ef32-402a-8325-76f2c4e84bfe.png)
+
+
+
+@ example_002
+
+![image](https://user-images.githubusercontent.com/88085974/135009988-52d76efd-2902-4d5e-b397-c377ef3f5265.png)
