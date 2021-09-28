@@ -23,3 +23,10 @@ implementation이란 머릿속에 있는 알고리즘을 소스코드로 바꾸�
 @ example_002
 
 ![image](https://user-images.githubusercontent.com/88085974/135009988-52d76efd-2902-4d5e-b397-c377ef3f5265.png)
+
+
+
+@ problem_001
+
+![image](https://user-images.githubusercontent.com/88085974/135012293-a7e3ba93-ffce-4457-8d9c-d4fbed15e559.png)
+![image](https://user-images.githubusercontent.com/88085974/135012308-0d20e091-862c-4b50-9c8c-7a6130880b21.png)
